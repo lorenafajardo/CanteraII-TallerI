@@ -1,14 +1,7 @@
 
 
-# CanteraII-TallerIII
-#### Buenas practicas de programación
-##### Desarrollado por: Daniela Montano y Lorena Fajardo Díaz
+# CanteraII-TallerI
+#### Manejo de Clases y Objetos en Java
+##### Desarrollado por: Lorena Fajardo Díaz
 
-El desarrollo del Taller III, trata sobre la elaboración de un programa que contenga una biblioteca de canciones y permita realizar las opciones de: crear playList, filtrar canciones, segun el año y el genero, y ordenar según la fecha y la duración. Para ello se crearon las siguientes clases:
-
-1. Clase Song, donde se ecuentran los atributos de las canciones
-2. Clase Library, donde se crear los objetos con sus respectivos atributos
-3. Clase Operations, donde se ecuentran los metodos de mostrar biblioteca, crear playList, filtrar y ordenar canciones.
-4. Clase Menu, donde se ecuentra la descripcion de las opciones del programa
-
-Adicionalmente, se creó un paquete donde se ecuentra la clase main, la cual permite llamar las clases anteriores y ejecutar el programa
+La entrega del Taller I, consta de seis clases, tres clases asociados a tres diagramas presentados en la figura 1, las cuales  se puede evidenciar en  los archivos:  Person.java, Fruit.java y bankAccount.java, que se ecuetran en la carpeta **Workshop I**, paquete **Entities**. En la misma ubicación se encuentran las tres clases propuestas, que corresponden a Pet.java, Car.java, Company.java
